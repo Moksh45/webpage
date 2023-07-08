@@ -1,17 +1,23 @@
 ---
 sd_hide_title: true
 ...
+# Governance
 
-<p style="text-align: center;font-size:36px;color:#734f96;"><b>Fortran-lang governance</b></p>
+:::{div} sd-text-center sd-fs-2 sd-font-weight-bold sd-text-primary
+Fortran-lang Governance
+:::
 
-## Governance
 This page describes the governance model used by the Fortran-lang community. The Fortran-lang community is a volunteer-based effort and relies on its contributors' motivation, free time, and hard work. Administrators, maintainers, and contributors choose to participate and may choose to leave any time for any or no reason.
 
-<p style="font-size:24px;color:#734f96;"><b>Code of Conduct</b></p>
+:::{div} sd-text-left sd-fs-2 sd-font-weight-bold sd-text-primary
+Code of Conduct
+:::
 
 Any contribution to the Fortran-lang community must follow the [code of conduct](https://github.com/fortran-lang/.github/blob/main/CODE_OF_CONDUCT.md).
 
-<p style="font-size:24px;color:#734f96;"><b>Administrators</b></p>
+:::{div} sd-text-left sd-fs-2 sd-font-weight-bold sd-text-primary
+Administrators
+:::
 
 The administrators are responsible for keeping Fortran-lang operational. They have access to the following assets
 
@@ -38,7 +44,9 @@ Current administrators are
 
 - Giannis Nikiteas ([@gnikit](https://github.com/gnikit), [giannis.nikiteas@gmail.com](mailto:giannis.nikiteas@gmail.com))
 
-<p style="font-size:24px;color:#734f96;"><b>Maintainers</b></p>
+:::{div} sd-text-left sd-fs-2 sd-font-weight-bold sd-text-primary
+Maintainers
+:::
 
 The maintainers are responsible for organizing the core projects of Fortran-lang, like the package manager, the standard library, and the webpage. Maintainers are responsible for
 
@@ -50,10 +58,14 @@ The maintainers are responsible for organizing the core projects of Fortran-lang
 
 Unless specially required, all discussions and activities of the maintainers will be public and made in collaboration with the community and contributors. Private communications or decisions made by the maintainers will be summarized to the community and contributors publicly after removing personal, private, or sensitive information, that should not be posted publicly on the internet.
 
-<p style="font-size:24px;color:#734f96;"><b>Contributors</b></p>
+:::{div} sd-text-left sd-fs-2 sd-font-weight-bold sd-text-primary
+Contributors
+:::
 
 Everybody is welcome to contribute to Fortran-lang and its projects. Providing and discussing ideas as well as developing concepts and designs are integral contributions to any project. All contributors can steer and add to the long-term vision of the Fortran-lang projects.
 
-<p style="font-size:24px;color:#734f96;"><b>License</b></p>
+:::{div} sd-text-left sd-fs-2 sd-font-weight-bold sd-text-primary
+License
+:::
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to the Fortran-lang community governance document, as per the CC-0 public domain dedication.
