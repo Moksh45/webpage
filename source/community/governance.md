@@ -68,4 +68,4 @@ Everybody is welcome to contribute to Fortran-lang and its projects. Providing a
 MIT License
 :::
 
-To the extent possible under law, the authors have waived all copyright and related or neighboring rights to the Fortran-lang community governance document, as per the CC-0 public domain dedication.
+To the extent possible under law, the authors have waived all copyright and related or neighboring rights to the Fortran-lang community governance document, as per the MIT License dedication.
