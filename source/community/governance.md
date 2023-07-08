@@ -7,7 +7,7 @@ sd_hide_title: true
 Fortran-lang Governance
 :::
 
-This page describes the governance model used by the Fortran-lang community. The Fortran-lang community is a volunteer-based effort and relies on its contributors' motivation, free time, and hard work. Administrators, maintainers, and contributors choose to participate and may choose to leave any time for any or no reason.
+This page provides an overview of the governance structure adopted by the Fortran-lang community, which thrives on the dedication, free time, and diligent efforts of its volunteers. The community comprises administrators, maintainers, and contributors who willingly engage and have the freedom to withdraw their involvement at any given point, irrespective of the reasons.
 
 :::{div} sd-text-left sd-fs-2 sd-font-weight-bold sd-text-primary
 Code of Conduct
@@ -65,7 +65,7 @@ Contributors
 Everybody is welcome to contribute to Fortran-lang and its projects. Providing and discussing ideas as well as developing concepts and designs are integral contributions to any project. All contributors can steer and add to the long-term vision of the Fortran-lang projects.
 
 :::{div} sd-text-left sd-fs-2 sd-font-weight-bold sd-text-primary
-License
+MIT License
 :::
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to the Fortran-lang community governance document, as per the CC-0 public domain dedication.
